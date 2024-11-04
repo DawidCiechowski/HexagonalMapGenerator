@@ -1,0 +1,24 @@
+# Screen dimensions
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+
+# Hexagon tile dimensions
+HEX_WIDTH = 64
+HEX_HEIGHT = 64
+HEX_RADIUS = HEX_WIDTH // 2
+
+# Colors
+GREEN = (0, 200, 0, 128)
+RED = (255, 0, 0)
+BLUE = (0, 0, 255)
+BLACK = (0, 0, 0)
+GRAY = (50, 50, 50)
+LIGHT_GRAY = (200, 200, 200)
+DARK_GRAY = (100, 100, 100)
+WHITE = (255, 255, 255)
+
+#FPS
+FPS = 30
+
+# GRID RADIUS
+GRID_RADIUS = 5
